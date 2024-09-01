@@ -10,6 +10,8 @@ The following directory structure is designed to keep your Django project organi
 your_project/
 │
 ├── your_app/                 # Your Django app
+│   └── datasets/             # Directory for storing datasets
+│       └── you_dataset.csv   # Example dataset file
 │   ├── migrations/           # Database migrations
 │   ├── static/               # Static files (CSS, JavaScript, images)
 │   ├── templates/            # HTML templates

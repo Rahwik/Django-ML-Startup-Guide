@@ -102,6 +102,10 @@ your_project/
 
 4. Access the application at `http://127.0.0.1:8000/`.
 
+## Detailed Documentation
+
+For an in-depth guide and detailed steps, refer to [learn.md](./learn.md).
+
 ## Contributing
 
 1. Fork the repository.

@@ -104,7 +104,7 @@ your_project/
 
 ## Detailed Documentation
 
-For an in-depth guide and detailed steps, refer to [learn.md](./learn.md).
+For an in-depth guide and detailed steps, refer to [learn.md](./LEARN.md).
 
 ## Contributing
 
